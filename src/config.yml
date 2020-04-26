@@ -1,0 +1,10 @@
+#Examples
+
+#songs:
+#  fairy-forest:
+#    path: plugins/musicoretol/musics/fairy-forest.nbs
+#    fadeIn: 10
+#    fadeOut: 10
+#regions:
+#  test01:
+#    song: "fairy-forest"

@@ -1,0 +1,9 @@
+name: musicoretol
+main: Musicaly.Main
+version: 1.0
+author: Mirai
+description: MusicUtil
+commands:
+  music:
+    description: For Staff
+    usage: "§c§lSTFONL"
