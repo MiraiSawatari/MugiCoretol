@@ -39,8 +39,6 @@ public class Main extends JavaPlugin implements Listener {
     public static HashMap<String, Song> songs = new HashMap();
     public static HashMap<Player, RadioSongPlayer> song = new HashMap();
 
-
-
     public void onEnable() {
         // config.ymlが存在しない場合はファイルに出力します。
         Directory dic = new Directory();
